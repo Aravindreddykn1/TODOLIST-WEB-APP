@@ -1,4 +1,4 @@
-# todolistapp
+# TODOLIST WEB APP
 requriments
 mysql-connector-java-8.0.28
 javax.servlet-api-4.0.1
